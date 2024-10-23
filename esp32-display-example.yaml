@@ -17,7 +17,7 @@
 substitutions:
   name: jk-bms-display
   device_description: "Monitor a JK-BMS using the display port (RS485)"
-  external_components_source: github://syssi/esphome-jk-bms@main
+  external_components_source: github://xuantrandev/esphome-jk-bms@main
   rx_pin: GPIO17
 
 esphome:

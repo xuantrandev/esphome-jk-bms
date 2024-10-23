@@ -1,7 +1,7 @@
 substitutions:
   name: jk-bms
   device_description: "Monitor a JK-BMS using the GPS port (UART-TTL)"
-  external_components_source: github://syssi/esphome-jk-bms@main
+  external_components_source: github://xuantrandev/esphome-jk-bms@main
   tx_pin: GPIO1
   rx_pin: GPIO3
 
